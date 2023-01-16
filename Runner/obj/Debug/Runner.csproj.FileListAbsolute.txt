@@ -1,0 +1,16 @@
+C:\Users\Леша\source\repos\Runner\Runner\bin\Debug\Runner.exe.config
+C:\Users\Леша\source\repos\Runner\Runner\bin\Debug\Runner.exe
+C:\Users\Леша\source\repos\Runner\Runner\bin\Debug\Runner.pdb
+C:\Users\Леша\source\repos\Runner\Runner\obj\Debug\Runner.csproj.AssemblyReference.cache
+C:\Users\Леша\source\repos\Runner\Runner\obj\Debug\Runner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Леша\source\repos\Runner\Runner\obj\Debug\MainWindow.g.cs
+C:\Users\Леша\source\repos\Runner\Runner\obj\Debug\App.g.cs
+C:\Users\Леша\source\repos\Runner\Runner\obj\Debug\Runner_MarkupCompile.cache
+C:\Users\Леша\source\repos\Runner\Runner\obj\Debug\Runner_MarkupCompile.lref
+C:\Users\Леша\source\repos\Runner\Runner\obj\Debug\MainWindow.baml
+C:\Users\Леша\source\repos\Runner\Runner\obj\Debug\Runner.g.resources
+C:\Users\Леша\source\repos\Runner\Runner\obj\Debug\Runner.Properties.Resources.resources
+C:\Users\Леша\source\repos\Runner\Runner\obj\Debug\Runner.csproj.GenerateResource.cache
+C:\Users\Леша\source\repos\Runner\Runner\obj\Debug\Runner.csproj.CoreCompileInputs.cache
+C:\Users\Леша\source\repos\Runner\Runner\obj\Debug\Runner.exe
+C:\Users\Леша\source\repos\Runner\Runner\obj\Debug\Runner.pdb
